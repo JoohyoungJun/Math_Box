@@ -6,4 +6,5 @@ function subtract(a, b) {
   return a - b;
 }
 
-function something() {}
+const multiple = (a, b) => a * b;
+
